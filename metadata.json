@@ -1,0 +1,6 @@
+{
+  "name": "LuxeCommerce",
+  "description": "Production-ready, premium commercial e-commerce platform with full REST backend, multi-role Admin CMS, customer accounts, real-time inventory, multi-step checkout, and comprehensive catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
